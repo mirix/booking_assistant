@@ -1,6 +1,8 @@
 # Appointment booking assistant
 
-A mock exercise towards an AI-powered appointment booking assistant.
+A very simple AI agent template.
+
+An assitant that help you search for available slots and book appointment.
 
 Not perfect but fully functional.
 
