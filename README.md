@@ -109,11 +109,3 @@ streamlit run appointment_assistant.py
 ```
 
 CRTL+Click on the URL that appears on the console and the chatbot should open on your default browser.
-
-
-## Support
-
-More information on the provided video.
-
-Call me or email me for further discussion. I would really appreciate your feedback.
-
