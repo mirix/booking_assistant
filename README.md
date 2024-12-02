@@ -73,10 +73,10 @@ ollama pull hf.co/bartowski/Qwen2.5-Coder-32B-Instruct-GGUF:Q4_K_M
 4. Create and activate a python environment outside of the git repo (change name and path as desired):
 
 ```bash
-python -m venv ../appointment_assistant
+python -m venv appointment_assistant
 ```
 ```bash
-source ../infinit/bin/appointment_assistant
+source appointment_assistant/bin/activate
 ```
 ```bash
 pip install --upgrade pip
