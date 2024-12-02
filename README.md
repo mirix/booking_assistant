@@ -16,9 +16,7 @@ Each approach presents advantages and disadvantages: whereas the first approach 
 
 - Searching and booking only. Functionality for cancelling or reschedulling appointments has not been implemented.
 
-- Policies are not vectorised because the model showcases a 128k context window and it seems to work better without vectorisation.
-
-## Self-imposed goals
+## Goals
 
 - Clear low-code approach.
 
